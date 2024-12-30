@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vigneshkm/static/css/main.58a0c615.css",
+    "main.js": "/vigneshkm/static/js/main.341760c2.js",
+    "static/media/vignesh.jpeg": "/vigneshkm/static/media/vignesh.3d26d6c3943606b59880.jpeg",
+    "index.html": "/vigneshkm/index.html",
+    "main.58a0c615.css.map": "/vigneshkm/static/css/main.58a0c615.css.map",
+    "main.341760c2.js.map": "/vigneshkm/static/js/main.341760c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.341760c2.js"
+  ]
+}
